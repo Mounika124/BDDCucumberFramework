@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Add items to wish list and sort items" skipped="0" tests="4" time="313.55" timestamp="2020-12-25T09:51:03.290860700+05:30[Asia/Calcutta]"><testcase name="Add an item to wish list"><error message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;div[class='a-column a-span3 a-text-center icon-container ncd-icon a-declarative']&quot;}&#10;  (Session info: chrome=87.0.4280.88)&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'&#10;System info: host: 'DESKTOP-LN9R7IR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}), userDataDir=C:\Users\LENOVO\AppData\Local\Temp\scoped_dir10640_144435493}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:64189}, acceptInsecureCerts=false, browserVersion=87.0.4280.88, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 29f7116531604375dcb8835722f70557&#10;*** Element info: {Using=css selector, value=div[class='a-column a-span3 a-text-center icon-container ncd-icon a-declarative']}&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'&#10;System info: host: 'DESKTOP-LN9R7IR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">no such element: Unable to locate element: {"method":"css selector","selector":"div[class='a-column a-span3 a-text-center icon-container ncd-icon a-declarative']"}
+  (Session info: chrome=87.0.4280.88)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-LN9R7IR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}), userDataDir=C:\Users\LENOVO\AppData\Local\Temp\scoped_dir10640_144435493}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:64189}, acceptInsecureCerts=false, browserVersion=87.0.4280.88, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: 29f7116531604375dcb8835722f70557
+*** Element info: {Using=css selector, value=div[class='a-column a-span3 a-text-center icon-container ncd-icon a-declarative']}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-LN9R7IR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: driver.version: unknown</error><system-err>no such element: Unable to locate element: {"method":"css selector","selector":"div[class='a-column a-span3 a-text-center icon-container ncd-icon a-declarative']"}
+  (Session info: chrome=87.0.4280.88)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-LN9R7IR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}), userDataDir=C:\Users\LENOVO\AppData\Local\Temp\scoped_dir10640_144435493}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:64189}, acceptInsecureCerts=false, browserVersion=87.0.4280.88, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]
+Session ID: 29f7116531604375dcb8835722f70557
+*** Element info: {Using=css selector, value=div[class='a-column a-span3 a-text-center icon-container ncd-icon a-declarative']}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-LN9R7IR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: driver.version: unknown&#13;
+jdk.internal.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)&#13;
+java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#13;
+automation.utilities.Utils.elementWait(Utils.java:1320)&#13;
+automation.stepdefinitions.AddItemsAndSortItemsStepDef.optionsAvailableForTheProduct(AddItemsAndSortItemsStepDef.java:93)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+</system-err></testcase><testcase name="Sort items by applying filters"/></testsuite>
